@@ -1,6 +1,8 @@
 
 # DalBites- One stop destination for ordering food in Dalhousie Campus
 
+## [Demo Video](https://drive.google.com/file/d/1XtqWSo9qh-FzYReZ0fuXXfwn5eroWZvi/view?usp=sharing)
+
 ## External Dependencies
 
 External dependencies are software components or libraries that are required for this project to function properly. Please make sure to install the following dependencies before running the project.
